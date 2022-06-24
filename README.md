@@ -1,1 +1,1 @@
-# Seq2Ensembe: collection of resources, files and tutorials
+# Seq2Ensembe 
