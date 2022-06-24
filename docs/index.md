@@ -1,4 +1,6 @@
 !!! tldr "Welcome to Seq2Ensemble"
 
-(Run OpenAWSEM and clustering in Colab)[./ColabOpenAWSEM.ipynb]
-        
+### Generate conformational Ensemble and clusters from PDB  
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/PotoyanGroup/Seq2Ensemble/blob/main/docs/ColabOpenAWSEM.ipynb)
+
