@@ -1,6 +1,6 @@
 site_name: "Group Wiki"
 
-repo_url: https://github.com/PotoyanGroup/GroupWiki
+repo_url: https://github.com/PotoyanGroup/Seq2Ensemble
 
 markdown_extensions:
   - admonition
@@ -18,14 +18,4 @@ theme:
          - navigation.expand
 
 nav:
-  - GroupWiki: index.md
-  - Onboarding: 
-     - Group manifesto: onboarding/index.md
-     - Set up your computer: onboarding/unix_list.md
-     - Data Management: onboarding/data_management.md
-     - Reading and Writing: onboarding/read_write.md
-     - Useful Libs: sim_list.md
-     - Learn SciPy: learn_scipy.md
-     - Learn MD: learn_md.md
-     - Learn CG: learn_cg.md
-     - Learn ML: learn_ml.md
+  - Seq2Ensemble: index.md
