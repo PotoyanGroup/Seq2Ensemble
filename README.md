@@ -1,1 +1,1 @@
-# [Seq2Ensembe](https://potoyangroup.github.io/Seq2Ensemble/) 
+# [Seq2Ensemble](https://potoyangroup.github.io/Seq2Ensemble/) 
