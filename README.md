@@ -76,4 +76,4 @@ The Runtime menu at the top has an option to “change runtime type”.  This sh
 
 cgMD simulation temperature may not correspond exactly to physical temperatures.  If you do not obtain a nice fitting ensemble, you may need to adjust your run temperature by 10-20K or run your simulation longer.
 If you run into errors that can’t be resolved by restarting the notebook, please post them to the issues page at https://github.com/PotoyanGroup/Seq2Ensemble/issues
-![image](https://user-images.githubusercontent.com/58605062/229129905-a2a318c7-1ca3-4409-9596-e2db8572573a.png)
+
