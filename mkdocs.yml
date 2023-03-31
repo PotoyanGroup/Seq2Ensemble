@@ -19,3 +19,4 @@ theme:
 
 nav:
   - Seq2Ensemble: index.md
+  - Documentation: docs.md
