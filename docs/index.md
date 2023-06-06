@@ -1,17 +1,14 @@
-!!! tldr "Welcome to Seq2Ensemble"
-
+!!! tldr "Seq2Ensemble: A collection of colab notebooks for generating conformational ensembles from primary sequence of proteins
+If you use the computaitona tols in a publicaiton please cite; [Solution Structure Ensembles of the Open and Closed Forms of the ∼130 kDa Enzyme I via AlphaFold Modeling, Coarse Grained Simulations, and NMR by Sedinkin et al; J Am Chem Soc 2023.](https://pubs.acs.org/doi/full/10.1021/jacs.3c03425)
+"
 
 ![](main.jpeg)
 
-- Below you will find a set of Colab notebooks that form a computational piepline for connecting sequence of proteins with the conformational ensembles consistent with the NMR data.
-
-- To learn more about Seq2Ensemble please refer to the upcoming manuscript by S Sedinkin et al. 
-
-### From sequence to structure via AlphaFold
+### From sequence to structure powered by AlphaFold
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb)
 
-### From structure to conformational ensemble via OpenAWSEM + conformer clustering + RDC fitting
+### From structure to conformational ensemble via OpenAWSEM + conformer clustering + NMR RDC fitting
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PotoyanGroup/Seq2Ensemble/blob/main/ColabOpenAWSEM.ipynb)
 
