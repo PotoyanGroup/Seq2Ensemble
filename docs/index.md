@@ -1,4 +1,4 @@
-!!! tldr "Seq2Ensemble: A collection of Colab notebooks for generating conformational ensembles of proteins from the primary sequences. The main reference to cite is: [Solution Structure Ensembles of the Open and Closed Forms of the ∼130 kDa Enzyme I via AlphaFold Modeling, Coarse Grained Simulations, and NMR by Sedinkin et al; J Am Chem Soc 2023.](https://pubs.acs.org/doi/full/10.1021/jacs.3c03425)"
+!!! abstract "Seq2Ensemble: A collection of Colab notebooks for generating conformational ensembles of proteins from the primary sequences. To learn more or to cite the work see the amin reference: [Solution Structure Ensembles of the Open and Closed Forms of the ∼130 kDa Enzyme I via AlphaFold Modeling, Coarse Grained Simulations, and NMR by Sedinkin et al](https://pubs.acs.org/doi/full/10.1021/jacs.3c03425) J Am Chem Soc (2023)"
 
 ![](main.jpeg)
 
