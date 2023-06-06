@@ -2,11 +2,11 @@
 
 ![](main.jpeg)
 
-### From sequence to structure powered by AlphaFold
+### Step 1: From sequence to structure via AlphaFold
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb)
 
-### From structure to conformational ensemble via OpenAWSEM + conformer clustering + NMR RDC fitting
+### Step 2: From structure to conformational ensemble via OpenAWSEM + conformer clustering + NMR RDC regression
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PotoyanGroup/Seq2Ensemble/blob/main/ColabOpenAWSEM.ipynb)
 
