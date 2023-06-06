@@ -1,6 +1,9 @@
 !!! tldr "Welcome to Seq2Ensemble"
 
-- Below you will find a set of Colab notebooks that form a computational piepline connecting primary sequence of proteins with the conformational ensembles which are consistent with the NMR data collected under specific external conditions.
+
+![](main.jpeg)
+
+- Below you will find a set of Colab notebooks that form a computational piepline for connecting sequence of proteins with the conformational ensembles consistent with the NMR data.
 
 - To learn more about Seq2Ensemble please refer to the upcoming manuscript by S Sedinkin et al. 
 
